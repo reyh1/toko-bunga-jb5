@@ -6,7 +6,7 @@ use App\Http\Controllers\TambahController;
 
 Route::get('/', function () {
     return view('welcome');
-});
+}); 
 
 Route::resource('/posts', \App\Http\Controllers\PostController::class);
-Route::get('/tambah', [TambahController::class, 'tambah']);
+Route::resource('/home', \App\Http\Controllers\HomeController::class);
