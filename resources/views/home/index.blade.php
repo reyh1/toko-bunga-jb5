@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Data Obat - A24.com</title>
+    <title>Data Ponsel 04</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
 </head>
@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <a href="/posts"><h3 class="text-center my-4">List Obat A24</h3>   </a>
+                    <a href="/posts"><h3 class="text-center my-4">List Ponsel 04</h3>   </a>
                         
                     <hr>
                 </div>
@@ -24,7 +24,7 @@
                             <thead>
                               <tr>
                                 <th scope="col">GAMBAR</th>
-                                <th scope="col">NAMA OBAT</th>
+                                <th scope="col">NAMA PONSEL</th>
                                 <th scope="col">KETERANGAN</th>
                               </tr>
                             </thead>
