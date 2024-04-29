@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Tambah Data Ponsel</title>
+    <title>Tambah Data Bunga</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 <body style="background: lightgray">
@@ -31,8 +31,8 @@
                             </div>
 
                             <div class="form-group">
-                                <label class="font-weight-bold">NAMA PONSEL</label>
-                                <input type="text" class="form-control @error('title') is-invalid @enderror" name="title" value="{{ old('title') }}" placeholder="Masukkan Nama Ponsel">
+                                <label class="font-weight-bold">NAMA BUNGA</label>
+                                <input type="text" class="form-control @error('title') is-invalid @enderror" name="title" value="{{ old('title') }}" placeholder="Masukkan Nama Bunga">
                             
                                 <!-- error message untuk title -->
                                 @error('title')
@@ -44,7 +44,7 @@
 
                             <div class="form-group">
                                 <label class="font-weight-bold">KETERANGAN</label>
-                                <textarea class="form-control @error('content') is-invalid @enderror" name="content" rows="5" placeholder="Masukkan Keterangan ponsel">{{ old('content') }}</textarea>
+                                <textarea class="form-control @error('content') is-invalid @enderror" name="content" rows="5" placeholder="Masukkan Keterangan Bunga">{{ old('content') }}</textarea>
                             
                                 <!-- error message untuk content -->
                                 @error('content')

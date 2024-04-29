@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <a href="/posts"><h3 class="text-center my-4">List Ponsel 04</h3>   </a>
+                    <a href="/posts"><h3 class="text-center my-4">Toko Bunga</h3>   </a>
                         
                     <hr>
                 </div>
@@ -24,7 +24,7 @@
                             <thead>
                               <tr>
                                 <th scope="col">GAMBAR</th>
-                                <th scope="col">NAMA PONSEL</th>
+                                <th scope="col">NAMA BUNGA</th>
                                 <th scope="col">KETERANGAN</th>
                               </tr>
                             </thead>
